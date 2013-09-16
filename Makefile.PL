@@ -27,6 +27,7 @@ configure_requires (
 build_requires (
    'Data::Dump'          => 0,
    'Test::More'          => 0,
+   'Test::Easy'          => 0,
    'Test::Exception'     => 0,
    'Test::Pod::Coverage' => 0,
    'Test::Pod'           => 0,
