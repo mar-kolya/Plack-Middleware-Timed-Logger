@@ -16,7 +16,7 @@ resources (
    #homepage   => 'http://yourwebsitehere.com',
    #IRC        => 'irc://irc.perl.org/#Plack-Middleware-Timed-Logger',
    license    => 'http://dev.perl.org/licenses/',
-   #repository => 'git://github.com/Nikolay Martynov/Plack-Middleware-Timed-Logger.git',
+   repository => 'git://github.com/mar-kolya/Plack-Middleware-Timed-Logger.git',
    bugtracker => 'http://rt.cpan.org/NoAuth/Bugs.html?Dist=Plack-Middleware-Timed-Logger',
 );
 
